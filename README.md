@@ -1,1 +1,1 @@
-# EduHive
+# Sinpgle page Design
